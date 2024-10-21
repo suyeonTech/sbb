@@ -1,6 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,intellij,git,java,gradle,windows,eclipse,maven,netbeans,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,intellij,git,java,gradle,windows,eclipse,maven,netbeans,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,intellij,git,java,gradle,maven,eclipse,netbeans,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,intellij,git,java,gradle,maven,eclipse,netbeans,visualstudiocode
 
+/HELP.md
 ### Eclipse ###
 .metadata
 bin/
@@ -353,4 +354,4 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,intellij,git,java,gradle,windows,eclipse,maven,netbeans,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/macos,windows,intellij,git,java,gradle,maven,eclipse,netbeans,visualstudiocode
